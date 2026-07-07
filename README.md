@@ -2,32 +2,6 @@
 
 # 🌟 Aadithya LLM HUB
 
-<p><strong>100+ AI Agent & RAG apps you can actually run — clone, customize, ship.</strong><br/>
-AI Agents · Always-on Agents · Multi-agent Teams · MCP Agents · RAG · Voice Agents · Agent Skills · Fine-tuning</p>
-
-<p>
-<strong>Free step-by-step tutorials on <a href="https://www.theunwindai.com">Unwind AI</a></strong><br/>
-<strong>Works with Claude · Gemini · OpenAI · xAI · Qwen · Llama</strong>
-</p>
-
-<p>
-<a href="https://github.com/Abhiii4545/Aadithya-LLM-Hub/stargazers"><img src="https://img.shields.io/github/stars/Abhiii4545/Aadithya-LLM-Hub?style=for-the-badge&logo=github&color=FFD700" alt="Stars"></a>
-<a href="https://github.com/Abhiii4545/Aadithya-LLM-Hub/network/members"><img src="https://img.shields.io/github/forks/Abhiii4545/Aadithya-LLM-Hub?style=for-the-badge&logo=github&color=4FC3F7" alt="Forks"></a>
-<a href="https://github.com/Abhiii4545/Aadithya-LLM-Hub/graphs/contributors"><img src="https://img.shields.io/github/contributors/Abhiii4545/Aadithya-LLM-Hub?style=for-the-badge&color=22C55E" alt="Contributors"></a>
-<a href="LICENSE"><img src="https://img.shields.io/github/license/Abhiii4545/Aadithya-LLM-Hub?style=for-the-badge&color=8B5CF6" alt="License"></a>
-<img src="https://img.shields.io/github/last-commit/Abhiii4545/Aadithya-LLM-Hub?style=for-the-badge&color=F97316" alt="Last Commit">
-</p>
-
-<p>
-<a href="#-quick-start"><kbd> &nbsp; 🚀 Quick Start &nbsp; </kbd></a>
-<a href="#-featured-ai-projects"><kbd> &nbsp; 📂 Browse Templates &nbsp; </kbd></a>
-<a href="https://www.theunwindai.com"><kbd> &nbsp; 📚 Step-by-Step Tutorials &nbsp; </kbd></a>
-</p>
-
-<a href="https://trendshift.io/repositories/9876" target="_blank">
-  <img src="https://trendshift.io/api/badge/repositories/9876" width="220" alt="Featured on Trendshift">
-</a>
-
 </div>
 
 ---
