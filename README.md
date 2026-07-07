@@ -1,32 +1,3 @@
-<p align="center">
-  <a href="http://www.theunwindai.com">
-    <img src="docs/banner/unwind_black.png" width="900px" alt="Unwind AI">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/Abhiii4545/">
-    <img src="https://img.shields.io/badge/Follow%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/Abhiii4545">
-    <img src="https://img.shields.io/badge/Follow%20on%20𝕏-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter">
-  </a>
-</p>
-
-<p align="center">
-  <!-- Keep these links. Translations will automatically update with the README. -->
-  <a href="https://www.readme-i18n.com/Abhiii4545/Aadithya-LLM-Hub?lang=de">Deutsch</a> | 
-  <a href="https://www.readme-i18n.com/Abhiii4545/Aadithya-LLM-Hub?lang=es">Español</a> | 
-  <a href="https://www.readme-i18n.com/Abhiii4545/Aadithya-LLM-Hub?lang=fr">français</a> | 
-  <a href="https://www.readme-i18n.com/Abhiii4545/Aadithya-LLM-Hub?lang=ja">日本語</a> | 
-  <a href="https://www.readme-i18n.com/Abhiii4545/Aadithya-LLM-Hub?lang=ko">한국어</a> | 
-  <a href="https://www.readme-i18n.com/Abhiii4545/Aadithya-LLM-Hub?lang=pt">Português</a> | 
-  <a href="https://www.readme-i18n.com/Abhiii4545/Aadithya-LLM-Hub?lang=ru">Русский</a> | 
-  <a href="https://www.readme-i18n.com/Abhiii4545/Aadithya-LLM-Hub?lang=zh">中文</a>
-</p>
-
-<hr/>
-
 <div align="center">
 
 # 🌟 Aadithya LLM HUB
